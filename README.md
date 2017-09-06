@@ -1,0 +1,2 @@
+# safelinkbaru
+file.js
